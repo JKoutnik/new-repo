@@ -1,2 +1,4 @@
 test
 test2 pridani commit
+test3 pridani commit
+test4 pull rebase
